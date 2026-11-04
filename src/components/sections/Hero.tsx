@@ -38,7 +38,7 @@ export default function Hero() {
           </p>
 
           <p className="max-w-lg text-sm md:text-base text-muted-foreground leading-relaxed mb-10 mx-auto lg:mx-0">
-            Desenvolvedor Full-Stack com sistemas reais em produção — do frontend moderno em React/Next.js a backends Node.js com automações, integrações de IA e APIs como WhatsApp Business e NetRIS.
+            Desenvolvedor Full-Stack com sistemas reais em produção — do frontend moderno em React/Next.js a backends Node.js com automações, integrações de IA e APIs como WhatsApp Business.
           </p>
 
           <div className="flex flex-wrap justify-center lg:justify-start gap-3 mb-12">
