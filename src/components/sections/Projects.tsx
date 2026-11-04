@@ -16,7 +16,7 @@ const PROJECTS = [
   {
     id: "confirmacao-automacao",
     title: "Bot de Confirmação de Agendamentos via WhatsApp",
-    description: "Sistema backend completo em produção: dispara confirmações de consultas via Meta WhatsApp Business API com templates aprovados, processa respostas via webhook, confirma/cancela no sistema NetRIS, envia alertas no Slack e gerencia toda a lógica de janelas de silêncio, reenvios e lembretes.",
+    description: "Sistema backend completo em produção: dispara confirmações de consultas via Meta WhatsApp Business API com templates aprovados, processa respostas via webhook, confirma/cancela no sistema de agenda da clínica, envia alertas no Slack e gerencia toda a lógica de janelas de silêncio, reenvios e lembretes.",
     tech: ["Node.js", "Express", "Meta WhatsApp API", "Supabase", "Railway", "Slack API"],
     imageKey: "project-7",
     type: "api",
@@ -67,14 +67,6 @@ const PROJECTS = [
     description: "Site institucional moderno desenvolvido para a Barbearia dos Artistas, focado em apresentação de serviços, identidade visual forte e experiência fluida para dispositivos móveis.",
     tech: ["HTML", "CSS", "JavaScript"],
     imageKey: "project-3",
-    type: "web",
-  },
-  {
-    id: "site-tagis-medicina",
-    title: "Site Institucional — Tagis Medicina Diagnóstica",
-    description: "Site institucional da Tagis Medicina Diagnóstica, clínica de exames laboratoriais e de imagem. Apresentação de serviços, unidades, convênios e canais de contato.",
-    tech: ["Next.js", "React", "TypeScript", "Tailwind CSS"],
-    imageKey: "project-8",
     type: "web",
   },
 ];

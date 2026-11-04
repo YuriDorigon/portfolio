@@ -53,11 +53,10 @@ export default function About() {
                 <ul className="mt-4 space-y-2.5">
                   {[
                     "Desenvolvimento e manutenção de 8+ sistemas internos em produção",
-                    "Bot de confirmação de agendamentos via WhatsApp com Meta Business API, templates aprovados e integração NetRIS",
+                    "Bot de confirmação de agendamentos via WhatsApp com Meta Business API, templates aprovados e integração com a agenda da clínica",
                     "Sistema de orçamentos laboratoriais com OCR por IA (Google Gemini Vision) para leitura de pedidos médicos",
                     "Emissão automática de notas fiscais via app Electron com scraping e API REST",
-                    "Gestão de escalas com geração automática via IA (Google Genkit + Gemini)",
-                    "Site institucional Next.js em produção (tagismd.com.br) com painel admin e Firebase"
+                    "Gestão de escalas com geração automática via IA (Google Genkit + Gemini)"
                   ].map((item, i) => (
                     <li key={i} className="text-sm text-muted-foreground flex gap-3">
                       <span className="text-accent shrink-0 mt-0.5 font-bold">—</span>
