@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "profile-photo",
+      "description": "Foto de perfil profissional de Yuri",
+      "imageUrl": "https://i.imgur.com/Jsgn5YG.png",
+      "imageHint": "professional developer portrait"
+    },
+    {
+      "id": "project-1",
+      "description": "Website institucional desenvolvido para a Kennedy Promotora.",
+      "imageUrl": "/projects/kennedy-promotora.png",
+      "imageHint": "financial services company website"
+    },
+    {
+      "id": "project-2",
+      "description": "Sistema web interno para gerenciamento e controle da lista de retorno médico dos pacientes.",
+      "imageUrl": "/projects/retorno-tagis.png",
+      "imageHint": "medical clinic patient return management system"
+    },
+    {
+      "id": "project-3",
+      "description": "Site institucional da Barbearia dos Artistas.",
+      "imageUrl": "/projects/barbearia-artistas.png",
+      "imageHint": "barbershop website modern design"
+    },
+    {
+      "id": "project-4",
+      "description": "Sistema web para geração e gestão de orçamentos de exames médicos da Clínica Tagis.",
+      "imageUrl": "/projects/orcamento-tagis.png",
+      "imageHint": "medical exam budget system dashboard"
+    },
+    {
+      "id": "project-5",
+      "description": "Sistema web para geração e gerenciamento de escalas mensais de funcionários da Tagis.",
+      "imageUrl": "/projects/escala-tagis.png",
+      "imageHint": "employee scheduling system dashboard"
+    },
+    {
+      "id": "project-6",
+      "description": "Sistema de busca e consulta de histórico clínico de pacientes da Tagis.",
+      "imageUrl": "/projects/historico-tagis.png",
+      "imageHint": "patient history search system"
+    },
+    {
+      "id": "project-7",
+      "description": "API backend para disparo automático de confirmações de consultas via WhatsApp.",
+      "imageUrl": "/projects/confirmacao-dashboard.png",
+      "imageHint": "whatsapp automation api backend dashboard"
+    },
+    {
+      "id": "project-8",
+      "description": "Site institucional da Tagis Medicina Diagnóstica.",
+      "imageUrl": "/projects/site-tagis-medicina.png",
+      "imageHint": "medical clinic institutional website"
+    }
+  ]
+}
